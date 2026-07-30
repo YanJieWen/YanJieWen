@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C62248&background=FFEB3600&width=435&lines=Get+busy+living%2C+or+get+busy+dying)](https://git.io/typing-svg)
 
 ## 🤡 About me :
-- 🖥️ I’m currently working on Chinese [Aviation Flight University of China (CAFUC)](https://www.cafuc.edu.cn/) with [College of Air Traffic Management](https://kgxy.cafuc.edu.cn/).
+- 🖥️ I’m currently working on [Civil Aviation Flight University of China (CAFUC)](https://www.cafuc.edu.cn/) with [College of Air Traffic Management](https://kgxy.cafuc.edu.cn/).
 - 🧰 Production tool, AI [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch)
 - 🕸️ [Open source](https://github.com/YanJieWen)
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 degree: [BEIJING UNIVERSITY OF CIVIL ENGINEERING AND ARCHITECTURE (BUCEA)](https://www.bucea.edu.cn/)
