@@ -6,8 +6,8 @@
 - 🖥️ I’m currently working on Chinese [Aviation Flight University of China (CAFUC)](https://www.cafuc.edu.cn/) with [College of Air Traffic Management](https://kgxy.cafuc.edu.cn/).
 - 🧰 Production tool, AI [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch)
 - 🕸️ [Open source](https://github.com/YanJieWen)
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 degree: [BEIJING UNIVERSITY OF CIVILENGINEERING AND ARCHITECTURE (BUCEA)](https://www.bucea.edu.cn/)
-- 🎓 Master degree: [BEIJING UNIVERSITY OF CIVILENGINEERING AND ARCHITECTURE (BUCEA)](https://www.bucea.edu.cn/)
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 degree: [BEIJING UNIVERSITY OF CIVIL ENGINEERING AND ARCHITECTURE (BUCEA)](https://www.bucea.edu.cn/)
+- 🎓 Master degree: [BEIJING UNIVERSITY OF CIVIL ENGINEERING AND ARCHITECTURE (BUCEA)](https://www.bucea.edu.cn/)
 - 🎓 Doctorate degree: [Central South University](https://www.csu.edu.cn/)
 ## 🔬 Research Interests
 ### 👁️ Computer Vision
